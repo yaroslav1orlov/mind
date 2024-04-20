@@ -1,8 +1,6 @@
 # Task
 
-
 # [go back](../README.md#tasks)
-
 
 ---
 # Downlods
@@ -12,15 +10,11 @@
 
 ---
 
-# How Much  
+# How Much
 - [x] how much 170F in C
-- [x] how much 40C in F 
+- [x] how much 40C in F
 
 ---
 
 # Show
-- [x] Show VScode Web to Milla
-
----
-
-# [go back](../README.md#tasks)
+- [ ] Show VScode Web to Milla

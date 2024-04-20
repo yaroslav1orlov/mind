@@ -6,5 +6,8 @@
   - [Tasks](#tasks)
 
 ## [MarkDown](markdown/markdown.md)
+- [ ] math
+- [ ] diagrams
+
 ## [Home](home/home.md)
 ## [Tasks](tasks/tasks.md)
