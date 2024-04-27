@@ -4,17 +4,46 @@
 
 ---
 # Downlods
-- [ ] download Carrot on IPad
 - [ ] download Carrot on IPhone
 - [ ] download Youtube Music on IPhone
-
----
-
-# How Much
-- [x] how much 170F in C
-- [x] how much 40C in F
+- [ ] download McDonald's on IPhone
 
 ---
 
 # Show
-- [ ] Show VScode Web to Milla
+- [ ] Show VScode Web to Milla 
+
+--- 
+
+# Figure Out
+- [ ] Figure out how to add another number with iCloud
+- [ ] Figure out the battery's properties
+
+---
+
+# Buy
+- [ ] Buy BMX
+  - [ ] money
+  - [ ] search
+  - [ ] discussion
+  - [ ] buy
+- [ ] Buy Longboard
+  - [ ] money
+  - [ ] search
+  - [ ] discussion
+  - [ ] buy
+- [ ] Buy Computer
+- [ ] Aliexpress
+  - [ ] Buy Wifi antenna
+  - [ ] Buy Batteries 18650
+- [ ] Amplifier
+  - [ ] Buy Battery for PC 8-20
+  - [ ] Buy 2 Speakers
+
+---
+
+# How Much-How Many
+- [x] how much 170F in C (77C)
+- [x] how much 40C in F (104F)
+
+---
