@@ -41,9 +41,13 @@
   - [ ] Buy 2 Speakers
 
 ---
+# Action
 
-# How Much-How Many
-- [x] how much 170F in C (77C)
-- [x] how much 40C in F (104F)
+### Add
+- [ ] Add Father to my git repo
 
 ---
+
+# How Much-How Many
+- [x] How Much 170F in C (77C)
+- [x] How Much 40C in F (104F)
