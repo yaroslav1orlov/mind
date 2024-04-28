@@ -44,7 +44,8 @@
 # Action
 
 ### Add
-- [ ] Add Father to my git repo
+- [x] Add Father to my git repo
+- [ ] Add dev.azure BackLog
 
 ---
 
