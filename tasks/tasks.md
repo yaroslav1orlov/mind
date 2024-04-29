@@ -4,9 +4,10 @@
 
 ---
 # Downlods
-- [ ] download Carrot on IPhone
-- [ ] download Youtube Music on IPhone
-- [ ] download McDonald's on IPhone
+- [ ] Download Carrot on IPhone
+- [ ] Download Youtube Music on IPhone
+- [ ] Download McDonald's on IPhone
+- [ ] Download VsCode on PC
 
 ---
 
@@ -15,19 +16,19 @@
 
 --- 
 
-# Figure Out
-- [ ] Figure out how to add another number with iCloud
+## Figure Out
+- [x] Figure out how to add another number with iCloud
 - [ ] Figure out the battery's properties
 
 ---
 
-# Buy
+### Buy
 - [ ] Buy BMX
-  - [ ] money
-  - [ ] search
+  - [x] money
+  - [x] search
   - [ ] discussion
   - [ ] buy
-- [ ] Buy Longboard
+  - [ ] Buy Longboard
   - [ ] money
   - [ ] search
   - [ ] discussion
@@ -41,14 +42,15 @@
   - [ ] Buy 2 Speakers
 
 ---
+
 # Action
 
 ### Add
 - [x] Add Father to my git repo
 - [ ] Add dev.azure BackLog
-
+  
 ---
 
-# How Much-How Many
+### How Much-How Many
 - [x] How Much 170F in C (77C)
 - [x] How Much 40C in F (104F)
