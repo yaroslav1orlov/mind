@@ -1,6 +1,7 @@
 # mind
 
 - [mind](#mind)
+  - [Python](#python)
   - [School](#school)
   - [MarkDown](#markdown)
   - [Home](#home)
@@ -8,6 +9,7 @@
   - [Tasks For Father](#tasks-for-father)
 
 ---
+## [Python](py/py.md)
 ## [School](school/school.md)
 ## [MarkDown](markdown/markdown.md)
 ## [Home](home/home.md)
