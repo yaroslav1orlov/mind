@@ -25,11 +25,11 @@
 - [ ] Buy BMX
   - [x] money
   - [x] search
-  - [ ] discussion
-  - [ ] buy
-  - [ ] Buy Longboard
+  - [x] discussion
+  - [x] buy
+- [ ] Buy Longboard
   - [ ] money
-  - [ ] search
+  - [x] search
   - [ ] discussion
   - [ ] buy
 - [ ] Buy Computer
@@ -37,8 +37,8 @@
   - [ ] Buy Wifi antenna
   - [ ] Buy Batteries 18650
 - [ ] Amplifier
-  - [ ] Buy Battery for PC 8-20
-  - [ ] Buy 2 Speakers
+  - [ ] Buy Battery for PC 8-20V
+  - [x] Buy 2 Speakers
 
 ---
 
