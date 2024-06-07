@@ -175,6 +175,23 @@ Markdown поддерживает создание списков задач, г
   some info
 </details>
 
+
+    
+  <div>
+    <svg width="200" height="200" viewBox="0 0 200 200">
+        <!-- Background circle -->
+        <circle cx="100" cy="100" r="100" fill="#fff"/>
+        <!-- Category 2: 36% -->
+        <path d="M100,100 L100,0 A100,100 0 0,1 187,50 Z" fill="#8FBC8F"/>
+        <!-- Category 1: 20% -->
+        <path d="M100,100 L187,50 A100,100 0 0,1 138,173 Z" fill="#CD5C5C"/>
+        <!-- Category 3: 32% -->
+        <path d="M100,100 L138,173 A100,100 0 0,1 62,173 Z" fill="#9932CC"/>
+        <!-- Category 4: 12% -->
+        <path d="M100,100 L62,173 A100,100 0 0,1 100,0 Z" fill="#4682B4"/>
+    </svg>
+</div>
+
 ```mermaid
 pie
     title Круговая диаграмма
@@ -182,3 +199,4 @@ pie
     "Категория 2": 36
     "Категория 3": 20
     "Категория 4": 12
+```
