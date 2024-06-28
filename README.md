@@ -6,6 +6,7 @@
   - [Tasks](#tasks)
   - [Tasks For Father](#tasks-for-father)
 
+## [school](school/school.md)
 ## [MarkDown](markdown/markdown.md)
 ## [Home](home/home.md)
 ## [Tasks](tasks/tasks.md)
