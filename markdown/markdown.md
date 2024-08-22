@@ -168,7 +168,7 @@ Markdown поддерживает создание списков задач, г
 
 ```markdown
 Это \*не\* будет *курсивом*.
-```
+
 <details>
   <summary>click</summary>
 

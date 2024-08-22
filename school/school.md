@@ -1,4 +1,4 @@
-# [Go Back](../README.md#tasks-for-father)
+# [Go Back](../README.md#)
 
 ## My Grades Report
 
