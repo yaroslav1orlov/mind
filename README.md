@@ -1,6 +1,7 @@
 # mind
-
+# lol
 - [mind](#mind)
+- [lol](#lol)
   - [School](#school)
   - [MarkDown](#markdown)
   - [Home](#home)
